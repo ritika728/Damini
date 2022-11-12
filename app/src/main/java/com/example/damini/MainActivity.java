@@ -49,11 +49,7 @@ public class MainActivity extends AppCompatActivity {
 
             Button btn_okay = (Button)mView.findViewById(R.id.btn_okay);
             TextView heading=mView.findViewById (R.id.heading);
-            heading.setText("LadyBuddy needs access to");
-            TextView sms=mView.findViewById (R.id.sms);
-            sms.setText("Sending SMS:-");
-            TextView textView=mView.findViewById (R.id.textFormodal);
-            textView.setText ("Emergency messaging needs SEND SMS permission");
+            heading.setText("The needs access to");
             TextView location=mView.findViewById (R.id.location);
             location.setText("Location:-");
             TextView locationText=mView.findViewById (R.id.textLocation);
@@ -62,10 +58,14 @@ public class MainActivity extends AppCompatActivity {
             call.setText("Phone Call:-");
             TextView callText=mView.findViewById (R.id.textCall);
             callText.setText("Emergency Calling needs CALL PHONE permission");
+            TextView sms=mView.findViewById (R.id.sms);
+            sms.setText("Sending SMS:-");
+            TextView textView=mView.findViewById (R.id.textFormodal);
+            textView.setText ("Emergency messaging needs SEND SMS permission");
             TextView declaration=mView.findViewById (R.id.declaration);
             declaration.setText("Declaration");
             TextView declaratioText=mView.findViewById (R.id.textDeclaration);
-            declaratioText.setText("The app is solely developed by INDIAN Developers and all data related to this app is stored locally in your phone.");
+            declaratioText.setText("All the data related to this app is stored locally in your phone.");
             CheckBox checkbox = (CheckBox)mView.findViewById(R.id.checkBox);
             TextView checkBoxtext = (TextView)mView.findViewById(R.id.checkBoxText);
             checkbox.setVisibility (View.VISIBLE);
