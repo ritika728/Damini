@@ -1,4 +1,4 @@
-package com.example.damini;
+package com.teamDroiders.ladybuddy;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
