@@ -61,7 +61,7 @@
                         android:gravity="center"
                         android:text="Emergency\nCall / Message"
                         android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
@@ -102,7 +102,7 @@
                         android:gravity="center"
                         android:text="Siren Alert"
                         android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
@@ -141,9 +141,9 @@
                         android:layout_height="23dp"
                         android:layout_marginTop="12dp"
                         android:gravity="center"
-                        android:text="Spy Camera\nDetection "
+                        android:text="Spy Detection "
                         android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
@@ -183,7 +183,7 @@
                         android:gravity="center"
                         android:text="Recent News"
                         android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
@@ -222,9 +222,9 @@
                         android:layout_height="23dp"
                         android:layout_marginTop="12dp"
                         android:gravity="center"
-                        android:text="App\nTour"
+                        android:text="App Tour"
                         android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
@@ -262,9 +262,9 @@
                         android:layout_height="23dp"
                         android:layout_marginTop="12dp"
                         android:gravity="center"
-                        android:text="About\nUs"
+                        android:text="Contact Us"
                         android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
 
                 </LinearLayout>
 
@@ -309,7 +309,7 @@
                     android:gravity="center"
                     android:text="Share and Save Lives"
                     android:textColor="@color/common_google_signin_btn_text_light_pressed"
-                    android:textSize="16sp" />
+                    android:textSize="14sp" />
 
             </LinearLayout>
 
