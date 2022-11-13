@@ -87,4 +87,5 @@ Android Components which are used:
 ## Authors
 
 - [@ritika728](https://github.com/ritika728)
+- [@ankitalamba](https://github.com/ankitalamba/)
 
