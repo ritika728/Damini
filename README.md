@@ -16,7 +16,7 @@ It is a complete women's safety app that requires a woman to save the phone numb
 - Learn how to manually detect spy cameras.
 - Read articles on the struggles of women to get empowerment. 
 - Contacting Us Feature to reach out in case of any issue
-- Empowering sharing feature
+- Feature to share a beautiful message for empowering others 
 
 ## Brief Process Flow 
 
